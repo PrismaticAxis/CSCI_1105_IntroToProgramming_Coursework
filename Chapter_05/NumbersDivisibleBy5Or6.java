@@ -1,3 +1,10 @@
+/*
+	Author:	Stephen Lovell
+	Date:	12 Jun 2020
+	
+	prints all numbers in a specified range that are
+	divisible by either 5 or 6, but not both.
+*/
 
 public class NumbersDivisibleBy5Or6
 {
